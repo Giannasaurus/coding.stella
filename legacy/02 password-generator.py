@@ -1,0 +1,1 @@
+password = input("Enter the length of your password: ")
